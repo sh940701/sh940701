@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) / ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - Can managing versions using Git; including skills like rebase, cherry-pick, etc.
 
-### Currently learning
+## Currently learning
 - ![NestJs](https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 - ![Postgresql](https://img.shields.io/badge/postgresql-169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 - ![GRPC](https://custom-icon-badges.demolab.com/badge/grpc-blue.svg?&style=for-the-badge&logo=GRPC&logoColor=white)
