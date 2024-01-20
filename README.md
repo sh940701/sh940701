@@ -6,6 +6,9 @@ Here are some ideas to get you started:
 
 ## Myself
 
+- 💻 Korean developer
+    - Backend
+    - CloudNative
 - 📖 I’m currently learning 
     - nest & postgres & grpc
 - ✉️ How to reach me: sunghyun.kim.dev@gmail.com
