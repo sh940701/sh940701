@@ -11,7 +11,7 @@ Here are some ideas to get you started:
     - CloudNative
 - 📖 I’m currently learning 
     - nest & postgres & grpc
-    - you can see example [here](https://github.com/sh940701/nest-gql-grpc)
+    - **Sample Repository** [nest-gql-grpc](https://github.com/sh940701/nest-gql-grpc): An example of MicroService which uses gql, nest-monorepo, grpc, postgres
 - ✉️ How to reach me: sunghyun.kim.dev@gmail.com
 
 # Skills
