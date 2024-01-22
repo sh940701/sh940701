@@ -11,6 +11,7 @@ Here are some ideas to get you started:
     - CloudNative
 - 📖 I’m currently learning 
     - nest & postgres & grpc
+    - you can see example [here](https://github.com/sh940701/nest-gql-grpc)
 - ✉️ How to reach me: sunghyun.kim.dev@gmail.com
 
 # Skills
