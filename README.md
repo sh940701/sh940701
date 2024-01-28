@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📖 I’m currently learning 
     - nest & postgres & grpc
     - **Sample Repository** [nest-gql-grpc](https://github.com/sh940701/nest-gql-grpc): An example of MicroService which uses gql, nest-monorepo, grpc, postgres
+- ✉️ How to reach me: sunghyun.kim.dev@gmail.com
 
 # Skills
 
