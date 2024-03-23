@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Intermediate at complex querying MongoDB using aggregations.
 
 ## DevOps
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) / ![Terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - AWS CloudFormation
 - Can Build Automated Infra stage customized with usage
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 - Can manage versions using Git; including skills like rebase, cherry-pick, etc.
 
 ## Currently learning
+- ![Terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white)
 - ![Postgresql](https://img.shields.io/badge/postgresql-169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 - ![GRPC](https://custom-icon-badges.demolab.com/badge/grpc-blue.svg?&style=for-the-badge&logo=GRPC&logoColor=white)
 
