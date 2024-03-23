@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Node.js
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) / ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white) / ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) / ![NestJs](https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 - Can build a monolithic web server.
 
 ## Go
@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 - Intermediate at complex querying MongoDB using aggregations.
 
 ## DevOps
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) / ![Terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white)
+
 - AWS CloudFormation
 - Can Build Automated Infra stage customized with usage
 - **Sample Repository** [AWS-CloudFormation-mobile-push](https://github.com/sh940701/AWS-CloudFormation-mobile-push): An example of implement mobile push service with AWS Cloudformation - FCM
@@ -47,6 +48,7 @@ Here are some ideas to get you started:
 - Can manage versions using Git; including skills like rebase, cherry-pick, etc.
 
 ## Currently learning
-- ![NestJs](https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
+- 
 - ![Postgresql](https://img.shields.io/badge/postgresql-169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 - ![GRPC](https://custom-icon-badges.demolab.com/badge/grpc-blue.svg?&style=for-the-badge&logo=GRPC&logoColor=white)
+
