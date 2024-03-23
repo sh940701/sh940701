@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Node.js
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) / ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white) / ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) / ![NestJs](https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
-- Can build a monolithic web server.
+- Can build a monolithic web server / MSA architected server by Nest-Monorepo
 
 ## Go
 - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) / ![Gin](https://img.shields.io/badge/gin-008ECF.svg?&style=for-the-badge&logo=gin&logoColor=white)
@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 - Can manage versions using Git; including skills like rebase, cherry-pick, etc.
 
 ## Currently learning
-- 
 - ![Postgresql](https://img.shields.io/badge/postgresql-169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 - ![GRPC](https://custom-icon-badges.demolab.com/badge/grpc-blue.svg?&style=for-the-badge&logo=GRPC&logoColor=white)
 
