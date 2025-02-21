@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ## Go
 - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) / ![Gin](https://img.shields.io/badge/gin-008ECF.svg?&style=for-the-badge&logo=gin&logoColor=white)
 - Can build server & functions utilizing the characteristics of golang
-- **Sample Repository** [go-tcp-ip-programming](https://github.com/sh940701/go-tcp-ip-programming): Practice of Golang TCP Server/Client with POSIX API
 
 ## MongoDB
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
